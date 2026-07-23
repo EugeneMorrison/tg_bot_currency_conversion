@@ -18,7 +18,7 @@ Built with \*\*Python\*\*, \*\*pyTelegramBotAPI\*\*, and \*\*requests\*\*.
 
 \- Converts from one currency to another (e.g., USD → RUB)
 
-\- Supports multiple currencies (доллар, евро, рубль, биткоин, эфир)
+\- Supports multiple currencies (dollar, euro, ruble, bitcoin, ether)
 
 \- Parses real-time exchange rates from \[CryptoCompare API](https://min-api.cryptocompare.com/)
 
